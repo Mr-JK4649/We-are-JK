@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TeamC制作", "TeamC制作.vcxproj", "{B96C91BE-5816-403A-A7EE-3FE3D9A44302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Debug|x64.ActiveCfg = Debug|x64
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Debug|x64.Build.0 = Debug|x64
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Debug|x86.ActiveCfg = Debug|Win32
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Debug|x86.Build.0 = Debug|Win32
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Release|x64.ActiveCfg = Release|x64
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Release|x64.Build.0 = Release|x64
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Release|x86.ActiveCfg = Release|Win32
+		{B96C91BE-5816-403A-A7EE-3FE3D9A44302}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09036C1D-DEAF-45CB-8AB5-6656D17F34D2}
+	EndGlobalSection
+EndGlobal
