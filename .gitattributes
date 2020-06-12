@@ -1,5 +1,0 @@
-*[[:space:]].psd filter=lfs diff=lfs merge=lfs -text
-Project1 filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
-.psd filter=lfs diff=lfs merge=lfs -text
-aiooo.txt filter=lfs diff=lfs merge=lfs -text
