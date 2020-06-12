@@ -1,3 +1,4 @@
+//‰½‚Å‚à‚¢‚¢‚â
 #include "DxLib.h"
 #include <stdio.h>
 #include <iostream>
