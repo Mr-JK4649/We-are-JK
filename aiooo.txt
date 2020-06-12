@@ -1,1 +1,3 @@
-人がゴミのようだwww
+version https://git-lfs.github.com/spec/v1
+oid sha256:299466eb7666a0b7018c39b340d18efd8c3cd29bbacf5b3fa89bb9b867a5851c
+size 27
