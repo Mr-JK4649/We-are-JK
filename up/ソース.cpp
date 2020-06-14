@@ -232,3 +232,4 @@ int LoadSounds(void) {
 	return 0;
 }
 
+/*��������悪�ǉ�*/
